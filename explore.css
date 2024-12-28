@@ -1,0 +1,23 @@
+.navbar{
+    box-shadow: 1px -2px 6px 4px black;
+}
+h1{
+    background-color: bisque;
+}
+.parent{
+    width: 100%;
+    height: auto;
+    background-color: palevioletred;
+}
+.child1{
+    background-color: blueviolet;
+}
+.child2{
+background-color: cornflowerblue;
+}
+.child3{
+background-color: cadetblue;
+}
+.child4{
+background-color: cornsilk;
+}
